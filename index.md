@@ -3,13 +3,13 @@ title: Syllabus
 layout: home
 ---
 
-# Class Name - Year
+# Intro to Unity - Winter 2023
 {: .no_toc }
 
-Welcome to Class Name! My name is Joe Collard and I am so excited to be your
-instructor this **Fall/Winter/Spring**!   This website will be your landing page
-for instructions for the majority of the activities you will complete throughout
-the course. One of the largest benefits of this site is the ability to use the
+Welcome to **Intro to Unity**! My name is Joe Collard and I am so excited to be
+your instructor this Winter! This website will be your landing page for
+instructions for the majority of the activities you will complete throughout the
+term. One of the largest benefits of this site is the ability to use the
 **Search** feature located at the top of each page which searches the entirety
 of this site.
 
@@ -24,7 +24,7 @@ of this site.
 
 ## Classroom Expectations
 
-* Class will begin promptly at XXX. If you are going to be late, you should
+* Class will begin promptly at 12:30. If you are going to be late, you should
   message me prior to class.
 * During class, you should have your camera on at all times. If you leave your
   computer, you should leave your camera on so I know that you are not currently
@@ -43,7 +43,7 @@ of this site.
 
 Each day there will be a class agenda that follows the following rough outline:
 
-### 1. QotD (5 minutes)
+### QotD (5 minutes)
 
 The first 5 minutes of most classes will begin with a **Question of the Day**.
 Your responses will be submitted via [Google Classroom]. There is no reason to
@@ -53,7 +53,7 @@ prepare you for the class discussion. **Note**: You are expected to write 3 - 5
 well thought out sentences. During this time, you should do your best to remain
 quiet and allow your peers to write their answers.
 
-### 2. Discussion (5 minutes)
+### Discussion (5 minutes)
 
 After everyone has responded to the **QotD**, there will be a brief class
 discussion where you are encouraged to share your response as well as discuss
@@ -61,14 +61,14 @@ the responses of others. Although you do not need to share every class during
 this time, you are expected to participate throughout the year. That said, I may
 call on you so be prepared to share your thoughts.
 
-### 3. Ask Me Anything (5 minutes)
+### Ask Me Anything (5 minutes)
 
 During this time, I will answer any questions that were asked since the previous
 class as well as accept additional questions. You should feel free to **Ask Me
 Anything**! Want to know what I ate for breakfast? Go for it! Want to know which
 Dungeons and Dragons class is my favorite? Ask away!
 
-### 4. Activity (40 minutes)
+### Activity (40 minutes)
 
 This is where the majority of your time will be spent during this class. I am a
 true believer that the best way to learn is by **doing**. During this time, you
@@ -90,7 +90,7 @@ randomly.
 > Additionally, if you find you are stuck for more than **5 - 10** minutes, you
 > should ask for help.
 
-### 5. Reflections (5 minutes)
+### Reflections (5 minutes)
 
 During the last 5 minutes of class, all break out rooms will be closed and you
 will be asked to complete a set of reflection questions for each day. You should
@@ -100,17 +100,25 @@ your reflection.
 Additionally, during this time, you are encouraged to post questions to the
 **AMA** for the following class.
 
-## Developer Log (Homework)
+## Homework
 
 Learning a skill takes daily practice! On most days, you will not be assigned
 homework to complete. Instead, outside of this class you are expected to
-complete **N** minutes of work per week practicing skills related to **CLASS
-TOPIC**. In general, this can be **ANYTHING** related to the class.
+complete **90 - 120** minutes of work per **week** practicing skills related to
+**Unity** / **C#**. 
+
+Below are a few topics that are **NOT** practicing Unity / C#:
+
+* Creating Assets (2D/3D art, Music composition, etc.)
+* Programming in another language
+* Playing video games made in Unity
 
 {: .note } 
 If you have not completed a class activity that is currently assigned, your time
 should **first** be spent finishing that activity. Then, if you have time
 remaining, you should spend that time working to further your skills.
+
+## Developer Log
 
 To help track your progress throughout the term, you will maintain and keep
 a **Developer Log**. Each time you work on furthering your skills related to
@@ -129,10 +137,13 @@ To help focus your efforts during a working session, you will create a
      reach and often result in poor outcomes.
    * Bad goals: "Study", "Find a YouTube video", "Write code"
    * Good goals:
-     * Study how to write loops and write at least 3 different loops  
-     * Watch and code along to Bracky's YouTube video on if statements. (https://youtube.com/some-link)
-     * Add 2 new locations to my Adventure Quest project: A dungeon cell and a hallway.
-3. After completing the first 2 steps, you should write down the date and time.
+     * Study how to write loops and attempt to write at least 3 different loops.
+       I will use this line (https:://best-learning-coding-site.wow/amazing)  
+     * Watch and code along to Brackey's YouTube video on if statements.
+       (https://youtube.com/some-link)
+     * Add 2 new locations to my Adventure Quest project: A dungeon cell and a
+       hallway.
+3. After completing the first 2 steps, you should write down the date and time (this is your start time)
 
 {: .note }
 Steps 1 and 2 do **NOT** count toward your time growing your skills.
