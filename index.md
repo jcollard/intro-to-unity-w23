@@ -1,6 +1,7 @@
 ---
 title: Syllabus
 layout: home
+nav_order: 0
 ---
 
 # Intro to Unity - Winter 2023
